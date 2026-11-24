@@ -1,0 +1,6 @@
+{
+  "name": "BiblioPair — Translated Abstract Pairing & Topic Overlap Workbench",
+  "description": "Upload or input DOIs grouped by Biodiversity, Climate Change, and Infectious Diseases to pair translated abstracts with same-journal, same-year untranslated controls and score topic overlap (0 = perfect overlap).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
